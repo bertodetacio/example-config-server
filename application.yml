@@ -8,7 +8,3 @@ management:
       exposure:
         include:
         - '*'
-    
-greeting-microservice: 
- greeting: "Hello"
- default-value: "World"
