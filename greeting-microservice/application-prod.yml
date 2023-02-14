@@ -10,5 +10,5 @@ management:
         - '*'
     
 greeting-microservice: 
- greeting: "Olá"
+ greeting: "Pronto"
  default-value: "Mondo"
